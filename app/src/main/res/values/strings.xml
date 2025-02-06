@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App26</string>
+    <string name="b1">Search1</string>
+    <string name="b2">Search2</string>
+    <string name="b3">Save Data</string>
+    <string name="b4">Add listner</string>
+    <string name="b5">Order By</string>
+</resources>
